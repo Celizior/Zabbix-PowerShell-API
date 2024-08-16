@@ -1,0 +1,1 @@
+Here is a zabbix powershell module I created a decade ago, it's basic but seems to have helped a few persons. The original link was on my onedrive, which seems still work but need an authentication. So I put it here also
